@@ -8,4 +8,4 @@ Secondly, the system aims to facilitate rapid triage of patients. Triage involve
 Lastly, the system aims to contribute to the effective management of COVID-19 patients. Once a diagnosis is confirmed, the system can provide valuable information to healthcare professionals about the extent and severity of lung involvement. This information assists in determining appropriate treatment plans and monitoring disease progression. By providing reliable and timely insights, the system enhances the overall care and management of COVID-19 patients.
 
 
-## Technology Used:
+## Technology Used: 
