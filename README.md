@@ -19,11 +19,6 @@ Lastly, the system aims to contribute to the effective management of COVID-19 pa
 + The training phase of the model was manually enabled, allowing the model to learn from the training data and adjust its internal parameters to optimize performance on the given task.
 + The resulting accuracy of 93.67% indicates the model's ability to correctly classify chest X-ray images as COVID-19 positive or negative with a high degree of accuracy.
 
-## limitations
-+ Due to the scarcity of open-source data, the dataset used in this project is imbalanced, primarily consisting of one class, which is COVID-19. Additionally, data augmentation techniques were not applied to the dataset as applying image augmentation techniques to medical images, such as X-ray images used for detecting serious diseases like COVID-19, should be done with caution. Image augmentation involves applying transformations to the images, such as rotation, scaling, or flipping, to increase the diversity of the training data. While augmentation can be beneficial in improving the performance of deep learning models by reducing overfitting and enhancing generalization, it is important to consider the nature of the medical images and the specific task at hand.
-
-+ In the case of medical imaging, altering the appearance of the images through augmentation can potentially introduce biases or distortions that affect the accuracy of the disease detection. Medical images often contain subtle features or patterns that medical professionals rely on for accurate diagnosis. Applying random transformations may modify these critical features, leading to misleading results and potentially compromising the model's effectiveness.
-
 ## Technology Used:
 This project utilizes the following technologies and libraries:
 
@@ -38,5 +33,12 @@ This project utilizes the following technologies and libraries:
 + NumPy: The NumPy library is utilized for efficient numerical computations and array operations, enabling handling and manipulation of multi-dimensional data structures within the project.
 
 These technologies and libraries work together to create an effective and efficient environment for developing and training deep learning models for the detection of COVID-19 from chest X-ray images.
+
+## limitations
++ Due to the scarcity of open-source data, the dataset used in this project is imbalanced, primarily consisting of one class, which is COVID-19. Additionally, data augmentation techniques were not applied to the dataset as applying image augmentation techniques to medical images, such as X-ray images used for detecting serious diseases like COVID-19, should be done with caution. Image augmentation involves applying transformations to the images, such as rotation, scaling, or flipping, to increase the diversity of the training data. While augmentation can be beneficial in improving the performance of deep learning models by reducing overfitting and enhancing generalization, it is important to consider the nature of the medical images and the specific task at hand.
+
++ In the case of medical imaging, altering the appearance of the images through augmentation can potentially introduce biases or distortions that affect the accuracy of the disease detection. Medical images often contain subtle features or patterns that medical professionals rely on for accurate diagnosis. Applying random transformations may modify these critical features, leading to misleading results and potentially compromising the model's effectiveness.
+
+
 
 
