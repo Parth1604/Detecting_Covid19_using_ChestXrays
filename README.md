@@ -28,7 +28,7 @@ This project utilizes the following technologies and libraries:
 
 +  **Google Colab**: The project leverages Google Colab, a cloud-based platform that provides a Jupyter notebook environment, enabling seamless coding, execution, and collaboration on machine learning tasks.
 
-+ ** OS Library**: The OS library in Python is employed to handle operating system functionalities, such as file and directory operations, facilitating data loading and management within the project.
++ **OS Library**: The OS library in Python is employed to handle operating system functionalities, such as file and directory operations, facilitating data loading and management within the project.
 
 + **NumPy**: The NumPy library is utilized for efficient numerical computations and array operations, enabling handling and manipulation of multi-dimensional data structures within the project.
 
