@@ -22,15 +22,15 @@ Lastly, the system aims to contribute to the effective management of COVID-19 pa
 ## Technology Used:
 This project utilizes the following technologies and libraries:
 
-+ PyTorch: The project is built using PyTorch, a popular open-source machine learning framework, which provides efficient tools for building and training deep learning models.
++ **PyTorch**: The project is built using PyTorch, a popular open-source machine learning framework, which provides efficient tools for building and training deep learning models.
 
-+  Python: The project is implemented in Python, a widely-used programming language known for its simplicity and versatility in scientific computing and machine learning.
++  **Python**: The project is implemented in Python, a widely-used programming language known for its simplicity and versatility in scientific computing and machine learning.
 
-+  Google Colab: The project leverages Google Colab, a cloud-based platform that provides a Jupyter notebook environment, enabling seamless coding, execution, and collaboration on machine learning tasks.
++  **Google Colab**: The project leverages Google Colab, a cloud-based platform that provides a Jupyter notebook environment, enabling seamless coding, execution, and collaboration on machine learning tasks.
 
-+  OS Library: The OS library in Python is employed to handle operating system functionalities, such as file and directory operations, facilitating data loading and management within the project.
++ ** OS Library**: The OS library in Python is employed to handle operating system functionalities, such as file and directory operations, facilitating data loading and management within the project.
 
-+ NumPy: The NumPy library is utilized for efficient numerical computations and array operations, enabling handling and manipulation of multi-dimensional data structures within the project.
++ **NumPy**: The NumPy library is utilized for efficient numerical computations and array operations, enabling handling and manipulation of multi-dimensional data structures within the project.
 
 These technologies and libraries work together to create an effective and efficient environment for developing and training deep learning models for the detection of COVID-19 from chest X-ray images.
 
